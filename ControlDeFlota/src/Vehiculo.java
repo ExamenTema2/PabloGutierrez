@@ -35,3 +35,5 @@ public class Vehiculo {
 }
 
 //Autor: Pablo Gutiérrez Campos
+
+//Descripción: Vehiculo perteneciente a una flota de vehiculos
