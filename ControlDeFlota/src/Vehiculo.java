@@ -33,3 +33,7 @@ public class Vehiculo {
 		this.modelo = modelo;
 	}
 }
+
+//Autor: Pablo Gutiérrez Campos
+
+//Descripción: Vehiculo perteneciente a una flota de vehiculos
